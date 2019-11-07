@@ -1,4 +1,5 @@
-#include <stdio.h> 
+// two-way TCP server
+#include <stdio.h>
 #include <netdb.h> 
 #include <netinet/in.h> 
 #include <stdlib.h> 

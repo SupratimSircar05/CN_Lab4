@@ -1,4 +1,5 @@
-#include <netdb.h> 
+// two-way TCP client
+#include <netdb.h>
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <string.h> 
